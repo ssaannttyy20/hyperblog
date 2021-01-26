@@ -1,4 +1,4 @@
-# hyperblog :tw-1f49a: 
+# hyperblog 💚 
 Un blog increible para el curso de git y github
 >el curso de git y Github de Platzi es lo que me faltaba para tripiclar mi salario y lanzarme a la industria del tejido de lana sintética con Machine Learning 
 > - llanero,16 años
